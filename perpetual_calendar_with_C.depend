@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1611060314 source:d:\workspace\c_workspace\perpetual_calendar_with_c\calendar.c
+	<stdio.h>
+	<stdlib.h>
+	"Calendar.h"
+
+1611060314 d:\workspace\c_workspace\perpetual_calendar_with_c\calendar.h
+
+1611062400 source:d:\workspace\c_workspace\calendar-versionc\calendar.c
+	<stdio.h>
+	<stdlib.h>
+	"Calendar.h"
+
+1611060314 d:\workspace\c_workspace\calendar-versionc\calendar.h
+
